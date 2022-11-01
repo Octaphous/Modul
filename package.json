@@ -1,0 +1,24 @@
+{
+    "name": "modul",
+    "version": "1.0.0",
+    "description": "Modular Discord Bot",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Octaphous/Modul.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Octaphous/Modul/issues"
+    },
+    "homepage": "https://github.com/Octaphous/Modul#readme",
+    "dependencies": {
+        "discord.js": "^14.6.0",
+        "dotenv": "^16.0.3"
+    }
+}
